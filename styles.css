@@ -1,1 +1,79 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0;
+	padding: 0;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.header{
+	width:100vw;
+	height:60px;
+	padding:10px;
+	background-color: #011e29;
+	text-align:center;
+}
+header{
+	padding:10px;
+	background-color: #011e29;
+	text-align:center;
+}
+.main-heading{
+	margin: auto;
+	padding-top: 10px;
+	text-align:center;
+	color:white;
+	
+	
+}
+
+body{
+	background-color:#f5f4f5;
+}
+ul li{
+	width:150px;
+	position:relative;
+	left:15px;
+}
+
+
+
+.parent-container{
+	margin: 0
+	padding: 10px 5px;
+	display: flex;
+	justify-content: space-around;
+}
+.latest-news-section{
+	width:180px;
+	height:120px;
+	padding:10px;
+	margin:5px;
+	background-color:white;
+	border-radius:15px;
+	
+}
+
+.main-art{
+	width:350px;
+	height: 50%;
+	padding:10px;
+	margin:5px;
+	background-color:white;
+	border-radius:15px;
+	text-align:center;
+	
+}
+.pictorial-news-section{
+	padding:10px;
+	margin:5px;
+	width:160px;
+	heigth:500px;
+	background-color:white;
+	border-radius:15px;
+	text-align:center;
+}
+.images{
+	maargin : auto;
+	width:130px;
+	
+}
